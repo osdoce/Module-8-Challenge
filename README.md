@@ -7,17 +7,14 @@ Perform actions like accelerating, braking, turning, doing wheelies (for motorbi
 Interactive menu system using inquirer
 Implemented with Object-Oriented Programming (OOP) in TypeScript
 
-
-
 ## Install Dependencies
 Run the following command in the terminal inside the project folder:
 npm install
 
 ## How to Run the Application
-npx tsc
-If this command shows errors, review the TypeScript files and fix them.
+RUN npx tsc in the terminal
 
-Run the Application
+## Run the Application
 Once compiled, run the application with:
 npm start
 
@@ -31,8 +28,7 @@ Exit the application
 
 # Dependencies Used
 This project uses the following dependencies:
-TypeScript 
-Inquirer 
+TypeScript, Inquirer 
 
 ## Walkthrough video 
 https://drive.google.com/file/d/1YmKnCn9yn-ko9rom7Ez1KCQehIJeQdXa/view
